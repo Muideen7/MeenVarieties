@@ -94,7 +94,7 @@ export function MapSection() {
                 loading="lazy"
                 referrerPolicy="no-referrer"
                 title="MeensVarieties Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.823849505628!2d3.3272055!3d6.6018752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103bdb58b55e55555:0!2s4%20Kollington%20St%20Aboru%20Lagos!5e0!3m2!1sen!2sng!4v1713888000000!5e0!3m2!1sen!2sng"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3963.1399320110386!2d3.277008774048006!3d6.629536393364813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b912deb4907d5%3A0xb65b1a36bb3f1bd7!2sMeens%20Varieties%20Store!5e0!3m2!1sen!2sus!4v1777211318124!5m2!1sen!2sus"
               />
             </div>
           </FadeIn>
