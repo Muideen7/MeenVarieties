@@ -48,7 +48,7 @@ export function AboutSection() {
               </div>
               <div className="flex items-center gap-3">
                 <Clock className="w-5 h-5 text-brand-red" />
-                <span className="text-gray-600">Open Daily: 8AM - 8PM</span>
+                <span className="text-gray-600">Open Daily: 9AM - 5PM</span>
               </div>
             </div>
           </motion.div>

@@ -46,7 +46,7 @@ export function MapSection() {
                   </div>
                   <div>
                     <h4 className="font-black uppercase text-sm tracking-wide mb-1">Business Hours</h4>
-                    <p className="text-gray-400">Mon - Sat: 9AM - 7PM</p>
+                    <p className="text-gray-400">Mon - Sat: 9AM - 5PM</p>
                   </div>
                 </div>
               </div>

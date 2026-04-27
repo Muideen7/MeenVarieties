@@ -8,7 +8,7 @@ import { FadeIn } from "@/components/animations/fade-in";
 const FAQS = [
   {
     q: "Do you have a physical store?",
-    a: "Yes! We're located at 4 Kollington Street, Baba Ijesha Bus Stop, Aboru, Iyana Ipaja, Lagos. You can visit us Monday to Saturday, 9AM to 7PM.",
+    a: "Yes! We're located at 4 Kollington Street, Baba Ijesha Bus Stop, Aboru, Iyana Ipaja, Lagos. You can visit us Monday to Saturday, 9AM to 5PM.",
   },
   {
     q: "Do you deliver?",
