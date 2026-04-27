@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Meen's Varieties
 
-# Run and deploy your AI Studio app
+Your one-stop destination for quality wrapping papers, party essentials, school supplies, and kids' toys. This is the official web application for Meen's Varieties.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/85ef00eb-0ac4-4677-9d35-2de41e8ee5a0
+- **Modern & Responsive Design:** Optimized for all devices.
+- **Tech Stack:** Built with Next.js (App Router), React, and TypeScript.
+- **Styling:** Styled using Tailwind CSS with beautiful UI components.
+- **Animations:** Smooth transitions and interactions powered by Framer Motion.
 
-## Run Locally
+## Getting Started
 
-**Prerequisites:**  Node.js
+**Prerequisites:** Node.js (v18 or higher recommended)
 
+1. Clone the repository and install dependencies:
+   ```bash
+   npm install
+   ```
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Learn More
+
+To learn more about the tools used in this project, check out the following resources:
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Tailwind CSS](https://tailwindcss.com/) - learn about utility-first CSS.
+- [Framer Motion](https://www.framer.com/motion/) - learn about animations in React.
